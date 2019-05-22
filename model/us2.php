@@ -19,9 +19,9 @@
 <p><img src="images/call.jpg"/></p>
 <div id="C" align="top">
 <font color="blue">
-<br/>ايمايل : epsilon@hotmail.com<br/>
-<br/>  تلفون :976652 70 961+ || 740910 70 961+ <br/>
-<br/> المكان  :العين - بعلبك -لبنان<br/> 
+<br/>*****@hotmail.com<br/>
+<br/>  ******* <br/>
+<br/> ******<br/> 
  </font>
 
   </div>   

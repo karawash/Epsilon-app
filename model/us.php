@@ -23,9 +23,9 @@ $english_arabic=$http.'us2.php';?>
 <p><img src="images/call.jpg"/></p>
 <div id="C" align="top" >
 <font color="blue">
-<br/>Email : epsilon@hotmail.com<br/>
-<br/>Phone : +961 70 976652 || +961 70 740910<br/>
-<br/>Place : Al-ain, Baalback ,Lebanon.<br/> 
+<br/>Email : ****@hotmail.com<br/>
+<br/>Phone : *******<br/>
+<br/>Place : *******.<br/> 
  </font>
   </div>   
   
